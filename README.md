@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MorphicGames
+- 👋 Hi, I’m @EternalNacht
 - 👀 I’m interested in creating games!
 - 🌱 I’m currently learning sbout more in-depth Game Design and growing my overall skills as a Game Developer!
 
